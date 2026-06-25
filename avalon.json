@@ -1,13 +1,22 @@
 {
-      "response": [
-          {
-                "datetime": 1230764400,
-                      "filename": "ota-package.zip",
-                            "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-                                  "romtype": "nightly",
-                                        "size": 314572800,
-                                              "url": "https://example.com/ota-package.zip",
-                                                    "version": "15.1"
-                                                        }
-                                                          ]
+  "response": [
+    {
+      "datetime": 1782381803,
+      "filename": "Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip",
+      "id": "6ff1a8a8474f9cf11889e8469cbe8896",
+      "romtype": "GMS",
+      "size": 3852902161,
+      "url": "https://sourceforge.net/projects/ghosuto/files/avalon/Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip/download",
+      "version": "3.11"
+    },
+    {
+      "datetime": 1782381803,
+      "filename": "Lunaris-AOSP-avalon-Community-3.11-VANILLA-2026062510.zip",
+      "id": "put_vanilla_md5_here",
+      "romtype": "VANILLA",
+      "size": 3214572800,
+      "url": "https://sourceforge.net/projects/ghosuto/files/avalon/Lunaris-AOSP-avalon-Community-3.11-VANILLA-2026062510.zip/download",
+      "version": "3.11"
+    }
+  ]
 }
