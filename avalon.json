@@ -1,24 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1782381805,
+      "datetime": 1782381803,
       "device": "avalon",
       "filename": "Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip",
-      "id": "6ff1a8a8474f9cf11889e8469cbe8456",
+      "id": "6ff1a8a8474f9cf11889e8469cbe8896",
       "romtype": "GMS",
       "size": 3852902161,
-      "url": "hhttps://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/GMS/Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip/download",
-      "version": "3.12"
-    },
-    {
-      "datetime": 1811808000,
-      "device": "avalon",
-      "filename": "Test-Lunaris-Vanilla-Update.zip",
-      "id": "6ff1a8a8474f9cf11889e8469cbe8789",
-      "romtype": "VANILLA",
-      "size": 1048576,
-      "url": "https://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/Lunaris-AOSP-avalon-Community-3.11-VANILLA-2026062516.zip/download",
-      "version": "3.12"
+      "url": "https://sourceforge.net/projects/lunarisaosp-avalon/files/lunaris_v3.11/24.06.2026/GMS/Lunaris-AOSP-avalon-Community-3.11-GMS-2026062510.zip/download",
+      "version": "3.11"
     }
   ]
 }
