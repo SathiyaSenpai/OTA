@@ -7,10 +7,10 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
-**Date:** 06/07/2026
+**Date:** 14/07/2026
 
 * Dropped Lineage AIDL RichTap vibrator support
-* Added Kang vibrator from 'pong'
+* Kang vibrator from 'pong'
 * Merged latest android14-6.1-lts upstream updates
 * Use lineage-libperfmgr for DT2W
 * Adjusted SurfaceFlinger duration to 12.3ms for smoother rendering
