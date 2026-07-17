@@ -7,6 +7,10 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 17/07/2026
+
+* Improved Haptics and fixed no Vibration on Call
+
 **Date:** 14/07/2026
 
 * Dropped Lineage AIDL RichTap vibrator support
