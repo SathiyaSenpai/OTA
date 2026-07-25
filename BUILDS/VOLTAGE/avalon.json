@@ -1,1 +1,15 @@
-
+{
+  "response": [
+    {
+        "maintainer": "Sathiya Senpai",
+        "oem": "OnePlus",
+        "device": "avalon",
+        "filename": "voltage-5.11-EOL-avalon-20260725-1140-UNOFFICIAL.zip",
+        "download": "#",
+        "timestamp": 1784959560,
+        "md5": "4645d2ab3430a7294de021ef0e976439",
+        "size": 2731991975,
+        "version": "5.11"
+    }
+  ]
+}
