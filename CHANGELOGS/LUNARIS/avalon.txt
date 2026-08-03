@@ -7,6 +7,15 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 03/08/2026
+
+* Removed the patch for dual sim 5G issue(Now its added in ROM Source)
+* Fix notification count not being dismiss
+* Dynamic Island implementation
+* Allow hiding statusbar while capturing screenshots
+* Remove broken app icon from statusbar lyric to restore empty space
+* Synced with Latest Source
+
 **Date:** 24/07/2026
 
 * Synced with Latest Source
