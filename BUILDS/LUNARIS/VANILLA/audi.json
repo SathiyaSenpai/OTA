@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "SATHIYA_SENPAI",
+      "oem": "OnePlus",
+      "device": "avalon",
+      "filename": "Lunaris-AOSP-audi-Community-3.12-VANILLA-2026080813.zip",
+      "download": "https://sourceforge.net/projects/lunarisaosp-audi/files/Lunaris_v3.12/08.08.2026/Lunaris-AOSP-audi-Community-3.12-VANILLA-2026080813.zip/download",
+      "timestamp": 1786196454,
+      "md5": "b849959a31cfb54245dc7920c6429f7b",
+      "sha256": "4aff7c50d3288989772fa9bbe71756cc3e64a31e1aced6bd23aba4e9fa2be07b",
+      "size": 3128808427,
+      "version": "3.12",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/rom-unofficial-avalon-vanilla-lunaris-aosp-for-oneplus-nord-4.4792967/",
+      "gapps": "no",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://github.com/sponsors/SathiyaSenpai",
+      "telegram": "https://telegram.me/sathiya_guild",
+      "dt": "https://github.com/SathiyaSenpai/android_device_oneplus_avalon",
+      "common-dt": "https://github.com/SathiyaSenpai/android_device_oneplus_sm8650",
+      "kernel": "https://github.com/SathiyaSenpai/android_kernel_oneplus_sm8650"
+    }
+  ]
+}
