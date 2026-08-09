@@ -2,17 +2,18 @@
 
 **Status:** Unofficial
 
-**Security Patch:** July 2026
+**Security Patch:** August 2026
 
 **Maintainer:** SathiyaSenpai
 
-### Device Changelog
+### Changelog
 **Date:** 09/08/2026
 
 * Add one time hotspot data limit
 * Fix empty space when statusbar DynamicBar media disable
 * Decouple DynamicBar keyguard music pill from statusbar media toggle
 * Added user configuration for minimum and maximum fling velocity
+* Fix Updater app Misconfigured
 
 **Date:** 03/08/2026
 
