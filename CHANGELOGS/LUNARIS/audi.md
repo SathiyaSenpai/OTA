@@ -2,7 +2,7 @@
 
 **Status:** Unofficial
 
-**Security Patch:** July 2026
+**Security Patch:** August 2026
 
 **Maintainer:** SathiyaSenpai
 
@@ -10,6 +10,6 @@
 **Date:** 07/08/2026
 
 * Android 16 Stable for the initial release.
-* Merged the June 2026 security patch.
+* Merged the August 2026 security patch.
 * Integrated Dolby audio support.
 * Added Basic Call Recorder (BCR).
