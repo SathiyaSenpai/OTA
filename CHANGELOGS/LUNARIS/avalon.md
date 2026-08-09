@@ -7,6 +7,13 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 09/08/2026
+
+* Add one time hotspot data limit
+* Fix empty space when statusbar DynamicBar media disable
+* Decouple DynamicBar keyguard music pill from statusbar media toggle
+* Added user configuration for minimum and maximum fling velocity
+
 **Date:** 03/08/2026
 
 * Removed the patch for dual sim 5G issue(Now its added in ROM Source)
