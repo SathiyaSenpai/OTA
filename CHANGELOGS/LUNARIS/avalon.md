@@ -7,6 +7,37 @@
 **Maintainer:** SathiyaSenpai
 
 ### Changelog
+**Date:** 17/08/2026
+
+* avalon: Fix HDR brightness level (Imported displayconf from AOSPA which is taken from (pdx256))
+* avalon: Enable Bypass charging support
+* avalon: Enable support for Reality display engine
+* sm8650: Allow surfaceflinger to use the big cluster
+* sm8650: Import and reset perf boost configs to stock qcom values
+* Improve and fix minor spoofing issue
+* Improve QS Smoothness
+* Introduce Custom QS scrim color
+* Add blur background support in lockscreen widget
+* Add dynamic island popup menu background style
+* Remove gradient from IOS widget music player and dim background
+* Change system dialog background color (Internet dialog, bt, etc..)
+* Hide DynamicIsland chip while on lockscreen
+* Make app launch animation faster
+* Add 2 New Powermenu style
+* Prevent DynamicIsland from overlapping statusbar icons
+* Fix app close stutter
+* Allow change QS widget order
+* Limit max keygaurd chip size
+* Fix waveform style renderer rounding
+* Use MD3 font for keygaurd elements
+* Tune QS clocks layout
+* Redesign material QS widget player UI
+* Allow change QS widget order
+* Introduce WS widget utility box
+* Implement Dot wave style pulse renderer
+* Fix flicker on pulse hide transitions
+* Switch back to stock interpolator for launcher animation
+
 **Date:** 09/08/2026
 
 * Add one time hotspot data limit
