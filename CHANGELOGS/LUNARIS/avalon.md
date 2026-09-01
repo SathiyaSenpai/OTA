@@ -7,6 +7,14 @@
 **Maintainer:** SathiyaSenpai
 
 ### Changelog
+**Date:** 01/09/2026
+- Device: Fix fingerprint sensor not working when display turned off
+- Device: Improve auto-brightness 
+- Device: Fix WiFi taking 10-15 seconds to turn on
+- Fix charging animation flashing briefly after unlock
+- Reduce transition boost duration
+- Merge with upstream
+
 **Date:** 17/08/2026
 
 * avalon: Fix HDR brightness level (Imported displayconf from AOSPA which is taken from (pdx256))
