@@ -19,8 +19,11 @@
 1. `adb reboot bootloader`
 2. Flash each image:
 >`fastboot flash boot boot.img`
+
 >`fastboot flash init_boot init_boot.img`
+
 >`fastboot flash vendor_boot vendor_boot.img`
+
 >`fastboot flash recovery recovery.img`
 3. Use Volume keys + Power key to boot into *Recovery*
 
