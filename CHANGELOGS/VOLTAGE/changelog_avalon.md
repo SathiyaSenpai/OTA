@@ -7,6 +7,16 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 14/09/2026
+- Enable VoNR support
+- Fix Type-C headset mic not working in calls and recordings
+- Fix rare, random Bluetooth failures
+- Optimize UI rendering and caching for smoother scrolling and animations
+- Fix stutters during screen recording and casting
+- Clean up duplicate system properties
+- Merge September security patch
+- Merge Upstream changes
+  
 **Date:** 01/09/2026
 - Fingerprint unlock fails when the screen is off and you disable lift to wake.
 - RichTap haptic feedback(from pong) is now fully working across the entire system on A17
@@ -15,10 +25,7 @@
 - Improved Auto-Brightness
 
 **Date:** 23/08/2026
-- A native, system-level App Lock with biometric and PIN authentication.
-- Option to create Home Screen Folders from the Files app.
-- Native support for LHDC high-resolution Bluetooth audio codecs.
-- Improves background resource management, blur performance and battery efficiency under the hood.
+- Merge with Upstream
     
 **Date:** 17/08/2026
 - Initial Android 17 build
