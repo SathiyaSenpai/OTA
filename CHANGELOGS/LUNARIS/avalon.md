@@ -2,7 +2,7 @@
 
 **Status:** Unofficial
 
-**Security Patch:** August 2026
+**Security Patch:** September 2026
 
 **Maintainer:** SathiyaSenpai
 
