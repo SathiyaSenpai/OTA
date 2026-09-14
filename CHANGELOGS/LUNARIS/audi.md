@@ -2,11 +2,26 @@
 
 **Status:** Unofficial
 
-**Security Patch:** August 2026
+**Security Patch:** September 2026
 
 **Maintainer:** SathiyaSenpai
 
 ### Changelog
+**Date:** 14/09/2026
+- Device: Inherit LinkToWindows
+- Device: Enable VoNR support
+- Device: Fix Type-C headset mic not working in calls and recordings
+- Device: Fix rare, random Bluetooth failures
+- Device: Optimize UI rendering and caching for smoother scrolling and animations
+- Device: Fix PowerHAL initialization not triggering on boot
+- Device: Fix stutters during screen recording and casting
+- Device: Clean up duplicate system properties across partitions
+- Merge September security patch
+- Merge Upstream changes
+- Drop messy blur algorithm changes
+- update NOSAtmosphereEffect
+- Other miscellaneous improvements
+
 **Date:** 01/09/2026
 - Device: Fix fingerprint sensor not working when display turned off
 - Device: Improve auto-brightness 
