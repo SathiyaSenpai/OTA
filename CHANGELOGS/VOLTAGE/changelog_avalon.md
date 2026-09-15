@@ -9,6 +9,7 @@
 ### Device Changelog
 **Date:** 14/09/2026
 - Improve RichTap Haptics
+- Enable Inbuilt Updater app for Unoffcial Build
 - Enable VoNR support
 - Fix Type-C headset mic not working in calls and recordings
 - Fix rare, random Bluetooth failures
