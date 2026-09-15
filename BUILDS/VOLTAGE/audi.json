@@ -4,11 +4,11 @@
         "maintainer": "Sathiya Senpai",
         "oem": "OnePlus",
         "device": "OnePlus Nord 4",
-        "filename": "",
-        "download": "",
-        "timestamp": ,
-        "md5": "",
-        "size": ,
+        "filename": "voltage-6.1-audi-20260915-0041-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/vos-audi/files/VoltageOS-6.1/14.09.2026/voltage-6.1-audi-20260915-0041-UNOFFICIAL.zip/download",
+        "timestamp": 1789434590,
+        "md5": "e35364ebb5e70434082274c78c6f3f7f",
+        "size": 2737268735,
         "version": "6.1"
     }
   ]
