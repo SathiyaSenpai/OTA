@@ -1,8 +1,8 @@
-## Voltage OS v6.0
+## Voltage OS v6.1
 
 **Status:** Unofficial
 
-**Security Patch:** August 2026
+**Security Patch:** September 2026
 
 **Maintainer:** SathiyaSenpai
 
