@@ -45,5 +45,5 @@
 - OTA: Settings > System > Updates
 - Manual: repeat Step 3 without formatting data
 
-***Sideload stuck / error 21?***
+***Sideload stuck / error 7?***
 Boot to fastbootd from recovery → `fastboot wipe-super super_empty.img` (from the initial-install package) → back to recovery and retry sideload.
