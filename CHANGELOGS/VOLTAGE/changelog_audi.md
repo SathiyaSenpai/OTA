@@ -7,6 +7,16 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 03/10/2026
+- Fix Battery metrics
+- Implement Poweroffalarm
+- Include Device as Webcam
+- Expand surfaceflinger cpuset to all cores
+- Clean up 32-bit pinner configuration
+- Nuke ATFWD and tcmd daemons
+- Fix SurfaceFlinger properties for smooth screen recording
+- Enable wide color gamut
+
 **Date:** 14/09/2026
 - Improve RichTap Haptics
 - Enable Inbuilt Updater app for Unoffcial Build
