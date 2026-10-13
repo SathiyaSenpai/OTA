@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "Sathiya Senpai",
-        "oem": "OnePlus",
-        "device": "OnePlus Nord 4",
-        "filename": "voltage-6.2-avalon-20261003-2302-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/vos-avalon/files/VoltageOS-6.1/03.10.2026/voltage-6.2-avalon-20261003-2302-UNOFFICIAL.zip/download",
-        "timestamp": 1791068416,
-        "md5": "394c8054ab9feac2bbfc3bb4ec69ab5d",
-        "size": 2790668160,
-        "version": "6.2"
+      "maintainer": "Sathiya Senpai",
+      "oem": "OnePlus",
+      "device": "OnePlus Nord 4",
+      "filename": "voltage-6.2-avalon-20261012-0541-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/vos-avalon/files/VoltageOS-6.2/12.10.2026/voltage-6.2-avalon-20261012-0541-UNOFFICIAL.zip/download",
+      "timestamp": 1791805671,
+      "md5": "a2adee8c4d3744d4cc2dd6e469eaa2df",
+      "size": 3038996861,
+      "version": "6.2"
     }
   ]
 }

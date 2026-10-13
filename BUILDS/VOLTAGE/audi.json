@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "Sathiya Senpai",
-        "oem": "OnePlus",
-        "device": "OnePlus Nord 4",
-        "filename": "voltage-6.2-audi-20261003-2340-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/vos-audi/files/VoltageOS-6.1/03.10.2026/voltage-6.2-audi-20261003-2340-UNOFFICIAL.zip/download",
-        "timestamp": 1791070669,
-        "md5": "4de1a27786b26f8acc03d3d8755e5cf3",
-        "size": 2738579442,
-        "version": "6.2"
+      "maintainer": "Sathiya Senpai",
+      "oem": "OnePlus",
+      "device": "OnePlus Nord 4",
+      "filename": "voltage-6.2-audi-20261012-0632-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/vos-audi/files/VoltageOS-6.2/12.10.2026/voltage-6.2-audi-20261012-0632-UNOFFICIAL.zip/download",
+      "timestamp": 1791812085,
+      "md5": "f6e034396e298bd243f856b14c3ed9f2",
+      "size": 2993513604,
+      "version": "6.2"
     }
   ]
 }
