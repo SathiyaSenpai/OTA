@@ -7,6 +7,12 @@
 **Maintainer:** SathiyaSenpai
 
 ### Changelog
+**Date:** 12/10/2026
+- Add Dynamic Island UI for Alert Slider
+- Include OPlus Camera and Gallery
+- Fix UI freeze and restart on battery health check
+- Improve auto brightness
+
 **Date:** 03/10/2026
 - Fix Battery metrics
 - Inherit AxionWidget

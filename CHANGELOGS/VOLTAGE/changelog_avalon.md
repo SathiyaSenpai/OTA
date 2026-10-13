@@ -1,12 +1,19 @@
-## Voltage OS v6.1
+## Voltage OS v6.2
 
 **Status:** Unofficial
 
-**Security Patch:** September 2026
+**Security Patch:** October 2026
 
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 12/10/2026
+- Add Dynamic Island UI for Alert Slider
+- Include OPlus Camera and Gallery
+- Fix UI freeze and restart on battery health check
+- Improve auto brightness
+
+## VoltageOS v6.1 :: avalon
 **Date:** 03/10/2026
 - Fix Battery metrics
 - Implement Poweroffalarm
@@ -42,7 +49,6 @@
 **Date:** 17/08/2026
 - Initial Android 17 build
 - Fixed Alert Slider
-
 
 ## VoltageOS v5.11 :: avalon
 **Date:** 05/08/2026
