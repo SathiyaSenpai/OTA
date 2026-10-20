@@ -7,6 +7,11 @@
 **Maintainer:** SathiyaSenpai
 
 ### Changelog
+**Date:** 16/10/2026
+- Bug fixes and improvements on Alert Slider Dynamic Island
+- Fix Alert Slider dialog trigger randomly on screen wake
+- Added Minimal Style for alert slider dialog
+
 **Date:** 12/10/2026
 - Add Dynamic Island UI for Alert Slider
 - Include OPlus Camera and Gallery
