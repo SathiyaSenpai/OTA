@@ -4,12 +4,12 @@
       "maintainer": "Sathiya Senpai",
       "oem": "OnePlus",
       "device": "OnePlus Nord 4",
-      "filename": "voltage-6.2-avalon-20261016-1128-UNOFFICIAL.zip",
-      "download": "https://sourceforge.net/projects/vos-avalon/files/VoltageOS-6.2/16.10.2026/voltage-6.2-avalon-20261016-1128-UNOFFICIAL.zip/download",
-      "timestamp": 1792149753,
-      "md5": "584d0f64e4aa1e15cf26cd941d7fe07c",
-      "size": 3038909000,
-      "version": "6.2"
+      "filename": "voltage-6.3-avalon-20261102-1623-UNOFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/vos-avalon/files/VoltageOS-6.3/02.11.2026/voltage-6.3-avalon-20261102-1623-UNOFFICIAL.zip/download",
+      "timestamp": 1793636508,
+      "md5": "48d262bc8058be705055bf1f9d86fec2",
+      "size": 3041057447,
+      "version": "6.3"
     }
   ]
 }

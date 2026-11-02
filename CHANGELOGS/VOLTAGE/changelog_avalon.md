@@ -1,4 +1,4 @@
-## Voltage OS v6.2
+## Voltage OS v6.3
 
 **Status:** Unofficial
 
@@ -7,6 +7,23 @@
 **Maintainer:** SathiyaSenpai
 
 ### Device Changelog
+**Date:** 02/11/2026
+- Removed Reality Engine
+- Removed BCR
+- Fixed auto brightness
+- Fixed connection issues with HeyMelody app
+- Fixed display green tint during low light dimming
+- Fixed Bluetooth audio routing for LHDC
+- Fixed stutters while playing 4K HDR content
+- Improved thermal management
+- Improved vibration
+- Improved Dolby audio and media codec support
+- Added support for 3D Spatial Audio
+- Enabled auto brightness on AOD
+- Boosted DSP scheduling for faster and smoother camera image processing
+- Refactored power off alarm to run only when alarm set
+
+## VoltageOS v6.2 :: avalon
 **Date:** 16/10/2026
 - Bug fixes and improvements on Alert Slider Dynamic Island
 - Fix Alert Slider dialog trigger randomly on screen wake
