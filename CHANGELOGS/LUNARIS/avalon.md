@@ -2,11 +2,33 @@
 
 **Status:** Unofficial
 
-**Security Patch:** October 2026
+**Security Patch:** November 2026
 
 **Maintainer:** SathiyaSenpai
 
-### Changelog
+### Changelo
+**Date:** 16/11/2026
+- Added AI tools to Oplus Camera
+- Fixed vibration in Oplus Camera
+- Fixed Duck RKP
+- Fixed HDR color shift when SDR content appears
+- Fixed signal strength reporting to match stock behavior
+- Fixed Spatial Audio randomly crashing when toggling
+- Fixed retouch plugin in Oplus Camera
+- Fixed camera crash when long pressing the capture button
+- Fixed camera crash at 10x zoom or higher
+- Fixed auto brightness fluctuations caused by light themed apps or dark popups near the sensor
+- Improved brightness recovery time during screen timeout
+- Fixed camera RAW crop alignment which caused purple tint issue on the photos
+- Fixed Oplus Camera crash when launching Google Lens
+- Fixed frame drops during 4K 60fps video recording
+- Removed Google Photos sync option from Oplus Gallery settings
+- Improved auto brightness responsiveness
+- Disabled Bluetooth Spatial Audio by default
+- Configured silver cluster frequency cap under light load to match stock
+- Enabled In Sensor Zoom for better 2x photos
+
+g
 **Date:** 02/11/2026
 - Removed Reality Engine
 - Removed BCR
